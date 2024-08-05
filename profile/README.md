@@ -7,7 +7,8 @@ For more information on the MITE data standard, see [the publication](https://do
 # Content
 
 - `mite_data`: contains files adhering to the MITE data standard
-- `mite_extras`: contains the MITE data standard schema and functionality to interact computationally with entries from `mite_data`
+- `mite_extras`: contains functionality to interact computationally with entries from `mite_data`
+- `mite_schema`: contains the schema and validation functionality
 
 # Contributing
 
