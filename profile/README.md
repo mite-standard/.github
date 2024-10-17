@@ -10,6 +10,7 @@ For more information on the MITE data standard, see the preprint: <https://doi.o
 - [mite_extras](https://github.com/mite-standard/mite_extras): contains functionality to interact computationally with entries from [mite_data](https://github.com/mite-standard/mite_data)
 - [mite_ml](https://github.com/mite-standard/mite_ml): contains the machine learning part
 - [mite_schema](https://github.com/mite-standard/mite_schema): contains the schema and validation functionality
+- [mite_web](https://github.com/mite-standard/mite_web): contains code for the MITE web presence
 
 # Contributing
 
