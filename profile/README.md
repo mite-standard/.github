@@ -12,6 +12,10 @@ For more information on the MITE data standard, see the preprint: <https://doi.o
 - [mite_schema](https://github.com/mite-standard/mite_schema): contains the schema and validation functionality
 - [mite_web](https://github.com/mite-standard/mite_web): contains code for the MITE web presence
 
+# Dependency graph of repositories
+
+![draw.io graph](./mite_standard_repo_dependency_graph.drawio.svg)
+
 # Contributing
 
 If you are interest in contributing, feel free to contact one of the [members](https://github.com/orgs/mite-standard/people).
