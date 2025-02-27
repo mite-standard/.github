@@ -1,8 +1,6 @@
-Contributions to the MITE initiative are welcomed and encouraged. Thanks for
-considering to participate.
+Thank you for your interest in contributing to the MITE initiative! We welcome and appreciate all contributions.
 
-All contributors, maintainers, and participants of the MITE initiative are
-expected to follow our [Code of Conduct](CODE_OF_CONDUCT.md). 
+All contributors, maintainers, and participants of the MITE initiative are expected to follow our [Code of Conduct](CODE_OF_CONDUCT.md). 
 
 This document is organized as follows:
 
@@ -10,11 +8,10 @@ This document is organized as follows:
    1. [Submitting New MITE Entries](#submitting-new-mite-entries)
    2. [Editing Entries](#editing-entries)
    3. [Reviewing Entries](#reviewing-entries)
-   4. [Modifications of MITE Data Standard](#mite-standard)
+   4. [Modifications of MITE Data Standard](#modifications-of-mite-data-standard)
 2. [Code Contribution](#code-contribution)
-   1. [MITE Web Portal](#mite-web)
-   2. [MITE Extras](#mite-extras)
-
+   1. [MITE Extras](#mite-extras)
+   2. [MITE Web Portal](#mite-web)
 
 ## Content Contribution
 
@@ -22,94 +19,102 @@ All content contributions should be performed using the [MITE Web application](h
 
 ### Submitting New MITE Entries
 
-MITE entries can be created by anyone, using the [MITE Submission Portal](https://mite.bioinformatics.nl/submission/). 
-The MITE data repository strives to be a detailed, descriptive resource on natural product-acting tailoring enzymes,
-and expertise is welcomed from anywhere. A detailed tutorial for data submission can be found at [MITE Tutorial](https://mite.bioinformatics.nl/tutorial),
-including a step-by-step explanatory video. If you run into issues, please see the [FAQ](https://mite.bioinformatics.nl/faqs) and 
-[Troubleshooting](https://mite.bioinformatics.nl/troubleshooting) pages, or contact one of the Maintainers specified in 
-the [GOVERNANCE](GOVERNANCE.md) file. All new entries undergo open peer review on the [MITE Data GitHub page](https://github.com/mite-standard/mite_data/issues).
+Anyone can contribute new MITE entries using the [MITE Submission Portal](https://mite.bioinformatics.nl/submission/). 
+The MITE data repository aims to be a comprehensive and detailed resource on natural product-acting tailoring enzymes, and contributions from all expertise levels are welcome.
+For guidance on submitting data, refer to the [MITE Tutorial](https://mite.bioinformatics.nl/tutorial), which includes a step-by-step walkthrough and an explanatory video. 
+If you encounter any issues, check the [FAQ](https://mite.bioinformatics.nl/faqs) and [Troubleshooting](https://mite.bioinformatics.nl/troubleshooting) pages.
+If further assistance is needed, you can reach out to a Maintainer listed in the [GOVERNANCE](GOVERNANCE.md) file. 
+
+All new entries undergo open peer review on the [MITE Data GitHub page](https://github.com/mite-standard/mite_data/issues).
 
 #### Attribution
 
-MITE entries are licensed under [CC0 "No Rights Reserved"](https://creativecommons.org/public-domain/cc0/) and all contributions become part of the public domain.
-During data submission, you may provide an [ORCID](https://orcid.org/) which is then stored in the "Changelog" of the MITE entry. 
-However, anonymous submissions are also invited. For more details, see the [Terms of Use](https://mite.bioinformatics.nl/terms). 
+All MITE entries are licensed under [CC0 "No Rights Reserved"](https://creativecommons.org/public-domain/cc0/), meaning all contributions become part of the public domain.
+
+During data submission, you have the option to provide an [ORCID](https://orcid.org/) which will be recorded in the Changelog of the MITE entry. 
+However, anonymous submissions are also welcome.
+
+For more details, please refer to the [Terms of Use](https://mite.bioinformatics.nl/terms). 
 
 #### Minimum MITE Requirements
 
-1. Each MITE entry characterizes a single, non-redundant **tailoring enzyme** involved in secondary metabolite synthesis.
-2. Gatekeeper enzymes (~=scaffold-forming) as defined by [Walsh 2023](https://doi.org/10.1039/D2NP00048B) are outside the scope of MITE.
-3. MITE entries need to be based on experimental data on the substrate- and reaction-specificity of the tailoring reaction. Predictions solely based on computational predictions are not permitted.
-4. Each MITE entry must be associated with one or more reaction descriptions.
+To ensure high-quality data, all MITE entries must meet the following criteria:
+
+1. Each entry must describe a single, non-redundant tailoring enzyme involved in secondary metabolite synthesis.
+2. Gatekeeper enzymes (i.e., scaffold-forming enzymes) as defined by [Walsh 2023](https://doi.org/10.1039/D2NP00048B) fall outside the scope of MITE.
+3. Entries must be supported by experimental data on the substrate and reaction specificity of the tailoring enzyme. Computational predictions alone are not sufficient.
+4. Each entry must include at least one reaction description.
 
 #### Bulk Contribution
 
-If you would like to submit many entries at once without using the MITE submission portal, please contact one of the Maintainers specified in 
-the [GOVERNANCE](GOVERNANCE.md) file.
+If you need to submit multiple entries at once without using the MITE Submission Portal, please contact a Maintainer listed in the [GOVERNANCE](GOVERNANCE.md) file.
 
 ### Editing Entries 
 
-Modifications to existing MITE entries can be proposed by anyone, using the "Modify entry" on the respective entry page.
-As with newly generated entries, you may provide an ORCID for attribution of your contribution.
-All proposed changes are reviewed by voluntary experts performing open peer review as described under [Submitting New MITE Entries](#submitting-new-mite-entries)
+Anyone can propose modifications to existing MITE entries using the "Modify entry" button on the respective entry page.
+As with new submissions, you may provide an [ORCID](https://orcid.org/) for attribution.
+All proposed changes undergo open peer review by voluntary experts, following the process outlined in [Submitting New MITE Entries](#submitting-new-mite-entries).
 
 ### Reviewing Entries 
 
-All newly submitted and modified existing MITE entries are peer-reviewed before admittance to the MITE data repository. 
-Peer review is performed by a pool of voluntary reviewers who scrutinize the entry for factual correctness.
-Reviewer membership and conduct is described in the [Project Governance](GOVERNANCE.md).
-New entries/proposed modifications may be rejected if they are outside the scope of MITE, are factual incorrect and considered "unfixable" by the Reviewers, or violate the community guidelines/code of conduct.
-Submitters are invited to participate in this discussion.
+All newly submitted and modified MITE entries undergo peer review before being accepted into the MITE data repository.
+This review is conducted by a pool of voluntary experts who assess each entry for factual accuracy.
+
+Reviewer membership, admittance, and responsibilities are outlined in the [Project Governance](GOVERNANCE.md) document.
+Please follow the instructions outlined in this document to become a Reviewer.
+Detailed information on the peer review process can be found in the [MITE Data Wiki](https://github.com/mite-standard/mite_data/wiki).
 
 ### Modifications of MITE Data Standard
 
-The MITE Data Standard regulates the data structure and content of MITE entries. All MITE entries must adhere to the MITE Data Standard.
-The Data Standard is implemented as a data model using the JSON Schema framework. It is organized in its own GitHub Repository named [MITE Schema](https://github.com/mite-standard/mite_schema).
-Changes to the MITE Data Standard can be proposed by anyone using the MITE Standard [Discussions Board](https://github.com/orgs/mite-standard/discussions/3).
-Changes are reviewed periodically by the MITE governing body (defined in the [Project Governance](GOVERNANCE.md)) and approved or rejected by majority vote. 
+The MITE Data Standard defines the structure and content of all MITE entries, ensuring consistency across the repository. 
+Every entry must adhere to this standard.
+
+The standard is implemented as a data model using the JSON Schema framework and is maintained in a dedicated GitHub repository: [MITE Schema](https://github.com/mite-standard/mite_schema).
+
+Anyone can propose changes to the MITE Data Standard by starting a discussion on the MITE Data Standard [Discussions Board](https://github.com/orgs/mite-standard/discussions/3). 
+Proposed modifications are periodically reviewed by the MITE governing body (as defined in the [Project Governance](GOVERNANCE.md)) and are approved or rejected by majority vote.
 
 ## Content Contribution
 
-All repositories in the MITE Data Standard Organization use the [GitHub Flow](https://guides.github.com/introduction/flow)
-model for code contributions. In general, code contributions are welcome, but make sure to first discuss them using 
-the MITE Standard [Discussions Board](https://github.com/orgs/mite-standard/discussions).
+All repositories in the MITE Data Standard Organization follow the [GitHub Flow](https://guides.github.com/introduction/flow) model for code contributions.
+
+While code contributions are welcome, please discuss your ideas first on the MITE Standard [Discussions Board](https://github.com/orgs/mite-standard/discussions) before submitting a pull request.
 
 #### Step-by-step guide
 
-In general, code contributions should follow these steps (for details, see the `README` of the individual repositories):
+To contribute code, follow these steps. For repository-specific details, refer to the README of the respective repository.
 
-1. [Create a fork](https://help.github.com/articles/fork-a-repo) of the respective upstream
-   repository using your GitHub account (or in one of your organizations)
-2. [Clone your fork](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
-3. Install `hatch` using one of the methods described here
+1. [Create a fork](https://help.github.com/articles/fork-a-repo) using your GitHub account (or an organization you belong to).
+2. [Clone your fork](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) to your local machine.
+3. Install `hatch` using one of the recommended methods.
 4. Install the package using `hatch env crate`
-4. Initialize `pre-commit` with `hatch run pre-commit install`
-5. Make changes to the code
-6. Test that your code passes quality assurance by running `pytest`
-7. Commit changes to your fork with `git commit`. `pre-commit` will run a set of linters to ensure high code quality.
-8. Push changes to your fork with `git push`
-9. Repeat steps 5-8 as needed
-10. Describe your changes in the `CHANGELOG.md` file
-11. Submit a pull request back to the upstream repository
-12. A code review takes place, resulting in accept, accept with revision, or reject. 
-13. If accepted and revisions have taken place, the fork is merged into `main` and deleted.
+5. Initialize `pre-commit` with `hatch run pre-commit install`
+6. Make changes to the code
+7. Test that your code passes quality assurance by running `pytest`
+8. Commit changes to your fork with `git commit`. `pre-commit` will run a set of linters to ensure high code quality.
+9. Push changes to your fork with `git push`
+10. Repeat steps 5-8 as needed
+11. Describe your changes in the `CHANGELOG.md` file
+12. Submit a pull request back to the upstream repository
+13. A code review takes place, resulting in accept, accept with revision, or reject. 
+14. If accepted and revisions have taken place, the fork is merged into `main` and deleted.
 
 #### Code style
 
 - All projects use a `pyproject.toml` file for metadata management, including dependencies. Semantic versioning and keeping a CHANGELOG are mandatory.
-- `pydantic` models are used where possible. Static typing outside the use of `pydantic` is strongly encouraged but not enforced.
+- `pydantic` models are preferred where applicable. Static typing outside the use of `pydantic` is strongly encouraged but not enforced.
 - `ruff` is used for linting and formatting (applied automatically using `pre-commit`). See the `pyproject.toml` files for a list of plugins.
-- Expressive documentation of function using `numpy`-style docstrings is mandatory. In-line comments are strongly discouraged.
-- Logging is performed using the `logging` module.
-- Unit testing is performed solely using the `pytest` library.
-- A continuous integration service is in place that run automated checks once a pull request is issued. 
+- Functions, classes, and methods must have expressive documentation using `numpy`-style docstrings. In-line comments are strongly discouraged.
+- Logging is performed using the built-in `logging` module.
+- Unit testing is performed exclusively using the `pytest` library.
+- A continuous integration service using GitHub Actions is in place that run automated checks once a pull request is submitted. 
 
 ### MITE Extras
 
 The [MITE Web Portal Repository](https://github.com/mite-standard/mite_extras) contains the MITE data model and associated validation functionality.
-Given its importance for the integrity of the project, all functionality must be unit tested. 
+To maintain the integrity of the project, all new functionality must be unit tested.
 
 ### MITE Web Portal
 
 The [MITE Web Portal Repository](https://github.com/mite-standard/mite_web) contains the code for the MITE web application.
-Since it is a web application, unit testing is less strictly handled. However, a local rebuild of the Docker container is required before a pull request.
+As a web application, unit testing is less strictly enforced. However, a local rebuild of the Docker container is required before submitting a pull request.
