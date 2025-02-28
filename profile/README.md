@@ -21,7 +21,7 @@ These guidelines apply to all repositories governed by the MITE Data Standard.
 This page organizes several repositories associated to the MITE Data Standard:
 
 | Name | Description | Zenodo Badge | PyPI Badge |
--------------------------------------
+| ---- | ----------- | ------------ | ---------- |
 | [mite_schema](https://github.com/mite-standard/mite_schema) | Data model | [![DOI](https://zenodo.org/badge/838326204.svg)](https://zenodo.org/doi/10.5281/zenodo.13294150) | [![PyPI version](https://badge.fury.io/py/mite-schema.svg)](https://badge.fury.io/py/mite-schema) |
 | [mite_extras](https://github.com/mite-standard/mite_extras) | Validation functionality | [![DOI](https://zenodo.org/badge/804997522.svg)](https://doi.org/10.5281/zenodo.13941745) | [![PyPI version](https://badge.fury.io/py/mite-extras.svg)](https://badge.fury.io/py/mite-extras) |
 | [mite_data](https://github.com/mite-standard/mite_data) | Data repository | [![DOI](https://zenodo.org/badge/834042284.svg)](https://zenodo.org/doi/10.5281/zenodo.13294303) | N/A |
