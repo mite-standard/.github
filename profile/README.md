@@ -15,7 +15,7 @@ These guidelines apply to all repositories governed by the MITE Data Standard.
 - [🤝Contributing](../CONTRIBUTING.md): outline of modes and terms of contributions to MITE Data Standard repositories.
 - [🏛Governance](../GOVERNANCE.md): description of governance, roles, responsibilities, and attribution
 - [👥Discussion](https://github.com/orgs/mite-standard/discussions): a discussion board for interaction with the project.
-- [📄Wiki](https://github.com/mite-standard/.github/wiki/Overview): a Wiki for MITE maintainers and developers.
+- [📄Wiki](https://github.com/mite-standard/.github/wiki): a Wiki for MITE maintainers and developers.
 
 ## Repository Content
 
