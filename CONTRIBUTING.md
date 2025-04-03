@@ -11,7 +11,7 @@ This document is organized as follows:
    4. [Modifications of MITE Data Standard](#modifications-of-mite-data-standard)
 2. [Code Contribution](#code-contribution)
    1. [MITE Extras](#mite-extras)
-   2. [MITE Web Portal](#mite-web)
+   2. [MITE Web Portal](#mite-web-portal)
 
 ## Content Contribution
 
@@ -74,7 +74,7 @@ The standard is implemented as a data model using the JSON Schema framework and 
 Anyone can propose changes to the MITE Data Standard by starting a discussion on the MITE Data Standard [Discussions Board](https://github.com/orgs/mite-standard/discussions/3). 
 Proposed modifications are periodically reviewed by the MITE governing body (as defined in the [Project Governance](GOVERNANCE.md)) and are approved or rejected by majority vote.
 
-## Content Contribution
+## Code Contribution
 
 All repositories in the MITE Data Standard Organization follow the [GitHub Flow](https://guides.github.com/introduction/flow) model for code contributions.
 
