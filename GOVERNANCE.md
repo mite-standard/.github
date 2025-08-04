@@ -78,10 +78,11 @@ New reviewers will:
 ## Publications / Attribution
 
 - All members of the Governing Body are automatically listed as authors on MITE-related publications.
-- Reviewers who have actively participated in reviewing submissions since the previous publication are invited to be co-authors.
-- All data contributors, regardless of the size of their contributions, are invited to be co-authors on MITE publications.
-- Authorship eligibility is based on ORCID-linked contributions to entries submitted or modified since the last publication.
+- Authorship eligibility is based on ORCID-linked contributions registered in a MITE data release published since the previous publication.
 - Anonymous contributors (i.e., those who did not provide an ORCID) are not eligible for co-authorship.
+- Contributors who have made a significant contribution (a time investment of six hours by data contribution, review, or a comparable intellectual contribution) qualify for co-athorship.
+- Reviewers who have actively participated in reviewing submissions since the previous publication are invited to be co-authors.
+- Data contributors who have actively added entries since the previous publication are invited to be co-authors.
 
 ## Bootstrapping governance
 
