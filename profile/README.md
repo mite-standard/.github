@@ -25,12 +25,13 @@ These guidelines apply to all repositories governed by the MITE Data Standard.
 This community manages several repositories associated to the MITE Data Standard. 
 
 
-| Name | Description | License | Zenodo Badge | PyPI Badge |
-| ---- | ----------- | ---------- | ------------ | ---------- |
-| [mite_schema](https://github.com/mite-standard/mite_schema) | Data model | MIT | [![DOI](https://zenodo.org/badge/838326204.svg)](https://zenodo.org/doi/10.5281/zenodo.13294150) | [![PyPI version](https://badge.fury.io/py/mite-schema.svg)](https://badge.fury.io/py/mite-schema) |
+| Name                                                        | Description              | License | Zenodo Badge | PyPI Badge |
+|-------------------------------------------------------------|--------------------------| ---------- | ------------ | ---------- |
+| [mite_schema](https://github.com/mite-standard/mite_schema) | Data model               | MIT | [![DOI](https://zenodo.org/badge/838326204.svg)](https://zenodo.org/doi/10.5281/zenodo.13294150) | [![PyPI version](https://badge.fury.io/py/mite-schema.svg)](https://badge.fury.io/py/mite-schema) |
 | [mite_extras](https://github.com/mite-standard/mite_extras) | Validation functionality | MIT | [![DOI](https://zenodo.org/badge/804997522.svg)](https://doi.org/10.5281/zenodo.13941745) | [![PyPI version](https://badge.fury.io/py/mite-extras.svg)](https://badge.fury.io/py/mite-extras) |
-| [mite_data](https://github.com/mite-standard/mite_data) | Data repository | CC0 | [![DOI](https://zenodo.org/badge/834042284.svg)](https://zenodo.org/doi/10.5281/zenodo.13294303) | N/A |
-| [mite_web](https://github.com/mite-standard/mite_web) | Web app | MIT | [![DOI](https://zenodo.org/badge/874302233.svg)](https://doi.org/10.5281/zenodo.14933931) | N/A | 
+| [mite_data](https://github.com/mite-standard/mite_data)     | Data repository          | CC0 | [![DOI](https://zenodo.org/badge/834042284.svg)](https://zenodo.org/doi/10.5281/zenodo.13294303) | N/A |
+| [mite_web](https://github.com/mite-standard/mite_web)       | Web app                  | MIT | [![DOI](https://zenodo.org/badge/874302233.svg)](https://doi.org/10.5281/zenodo.14933931) | N/A | 
+| [mite_ms](https://github.com/mite-standard/mite_ms)         | Manuscript-related files | MIT | [![DOI](https://zenodo.org/badge/889083197.svg)](https://doi.org/10.5281/zenodo.16875018)   | N/A | 
 
 
 See also the [MITE Standard Zenodo Community page](https://zenodo.org/communities/mite-standard/).
