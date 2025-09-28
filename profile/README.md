@@ -3,11 +3,11 @@
 Welcome to the MITE Standard Organization page!
 
 MITE (*Minimum Information about a Tailoring Enzyme*) is a community-driven database for the characterization of **tailoring enzymes**.
-These enzymes play important roles in the biosynthesis of secondary or specialized metabolites, naturally occuring molecules with strong biological activities, such as antibiotic properties.
+These enzymes play important roles in the biosynthesis of secondary or specialized metabolites, naturally occurring molecules with strong biological activities, such as antibiotic properties.
 MITE summarizes **experimental data** on the **reactions and substrate specificities** of these tailoring enzymes in both human- and machine-readable form, using the **reaction SMARTS** chemical transformation language.
 The MITE database can be used as knowledgebase, as parts catalog for synthetic biology, or for machine learning applications.
 
-Interested? Check out our [website](https://mite.bioinformatics.nl/)!
+Interested? Check out our [website](https://mite.bioinformatics.nl/) or read our [publication](https://doi.org/10.1093/nar/gkaf969)!
 
 ## Resources
 
