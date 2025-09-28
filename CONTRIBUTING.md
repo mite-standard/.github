@@ -12,6 +12,7 @@ This document is organized as follows:
 2. [Code Contribution](#code-contribution)
    1. [MITE Extras](#mite-extras)
    2. [MITE Web Portal](#mite-web-portal)
+3. [Co-Authorship](#co-authorship)
 
 ## Content Contribution
 
@@ -118,3 +119,7 @@ To maintain the integrity of the project, all new functionality must be unit tes
 
 The [MITE Web Portal Repository](https://github.com/mite-standard/mite_web) contains the code for the MITE web application.
 As a web application, unit testing is less strictly enforced. However, a local rebuild of the Docker container is required before submitting a pull request.
+
+### Co-Authorship
+
+Active contributors are generally invited to become co-authors of the next publication of MITE. Please refer to the [GOVERNANCE](https://github.com/mite-standard/.github/blob/main/GOVERNANCE.md#publications--attribution) document for details.
